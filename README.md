@@ -1,2 +1,2 @@
 # Whatsapp-bot-v2
-Whatsapp Business Bot with Baileys socket
+Whatsapp Business Groups Bot with Baileys socket
